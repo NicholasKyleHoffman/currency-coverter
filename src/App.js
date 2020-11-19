@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div id="currencyConverterApp">
         <section className="currencyConvComponent">
-          <Converter/>
+          <Converter />
         </section>
         <div>
           <GitFooter />
